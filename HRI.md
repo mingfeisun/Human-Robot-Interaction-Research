@@ -10,6 +10,6 @@
 
 *Ubiquitous co-robot* 
 
-![alt NSF](co-robot.png)
+![alt NSF](image/co-robot.png)
 
 ### Reference 
