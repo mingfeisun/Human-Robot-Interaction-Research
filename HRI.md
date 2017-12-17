@@ -9,7 +9,7 @@
 * [Laurel Riek](http://cseweb.ucsd.edu/~lriek/) from Healthcare Robotics Lab at UCSD
 * [Dieter Fox](https://homes.cs.washington.edu/~fox/) from [RSE Lab](http://rse-lab.cs.washington.edu/) at U of Washinton
 * [Siddhartha S. Srinivasa](https://homes.cs.washington.edu/~siddh/) from [Personal Robotics Lab](http://personalrobotics.ri.cmu.edu/) at CMU
-* [Andrea Thomaz](https://www.cc.gatech.edu/~athomaz/) from [https://www.cc.gatech.edu/social-machines/](https://www.cc.gatech.edu/social-machines/)
+* [Andrea Thomaz](https://www.cc.gatech.edu/~athomaz/) from [Socially Intelligent Machines Lab](https://www.cc.gatech.edu/social-machines/) at Gatech
 
 
 ### Papers
