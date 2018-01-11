@@ -8,7 +8,8 @@
 * [Manipulation Algorithms (CMU)](https://personalrobotics.ri.cmu.edu/courses/16843/)
 * [Human-Robot Interaction: Algorithms & Experiments (Cornell & UT Austin)](http://hriclass.com/schedule/)
 
-
+## Important links
+* [Conference on Robot Learning (CoRL)](http://www.robot-learning.org/home)
 
 ## Books
 * Probabilistic robotics
