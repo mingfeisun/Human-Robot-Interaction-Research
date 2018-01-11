@@ -1,5 +1,13 @@
 # hri-research
 
+## Courses
+* [Algorithmic HRI (UC Berkeley)](http://people.eecs.berkeley.edu/~anca/AHRI.html)
+* [Cooperative Machines (MIT)](http://ocw.mit.edu/courses/media-arts-and-sciences/mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003/lecture-notes/)
+* [Human-Robot Interaction (GaTech)](https://www.cc.gatech.edu/~athomaz/classes/CS8803-HRI/Home.html)
+* [Human-Robot Interaction (UW)](https://sites.google.com/site/cse599k1/calendar)
+* [Manipulation Algorithms (CMU)](https://personalrobotics.ri.cmu.edu/courses/16843/)
+
+
 ## Books must read
 * Probabilistic robotics
 * Multivew Geometry in Computer Vision
