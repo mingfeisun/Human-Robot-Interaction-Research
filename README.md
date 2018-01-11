@@ -6,6 +6,8 @@
 * [Human-Robot Interaction (GaTech)](https://www.cc.gatech.edu/~athomaz/classes/CS8803-HRI/Home.html)
 * [Human-Robot Interaction (UW)](https://sites.google.com/site/cse599k1/calendar)
 * [Manipulation Algorithms (CMU)](https://personalrobotics.ri.cmu.edu/courses/16843/)
+* [Human-Robot Interaction: Algorithms & Experiments (Cornell & UT Austin)](http://hriclass.com/schedule/)
+* []()
 
 
 ## Books must read
