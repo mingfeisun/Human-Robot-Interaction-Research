@@ -10,7 +10,7 @@
 
 
 
-## Books must read
+## Books
 * Probabilistic robotics
 * Multivew Geometry in Computer Vision
 * Reinforcement Learning
@@ -58,12 +58,3 @@
 
 * [UoL 3D Social Interaction Dataset](https://lcas.lincoln.ac.uk/wp/research/data-sets-software/uol-3d-social-interaction-dataset/)
 > The dataset is composed of 10 sessions. Each session provides RGB-D images and skeleton tracks of 2 long videos of different activities performed by two people. Each session is zipped in a separate file, which contains a folder that has skeleton tracks in a text format and RGB (24 bits) and depth images. Each row of the skeleton text file contains information about positions (6 DoF) of 25 joints. The work is currently submitted for RO-MAN 2017. Source code to extract skeleton data and ROS-compatible files will be provided after the RO-MAN conference. Whilst we do not require registration to download we would appreciate if you could complete the form as it enables us to help assess our impact, which is a key metric for our project’s funding. If you do register we will send you an email with the link where you will find the files.
-
-
-
-## Papers must read
-
-
-## Course must study
-
-
