@@ -7,6 +7,7 @@
 * [Human-Robot Interaction (UW)](https://sites.google.com/site/cse599k1/calendar)
 * [Manipulation Algorithms (CMU)](https://personalrobotics.ri.cmu.edu/courses/16843/)
 * [Human-Robot Interaction: Algorithms & Experiments (Cornell & UT Austin)](http://hriclass.com/schedule/)
+* [Robot Learning from Demonstration and Interaction (UTexas)](http://www.cs.utexas.edu/~sniekum/classes/RLFD-F17/desc.php)
 
 ## Important links
 * [Conference on Robot Learning (CoRL)](http://www.robot-learning.org/home)
