@@ -8,6 +8,7 @@
 * [Manipulation Algorithms (CMU)](https://personalrobotics.ri.cmu.edu/courses/16843/)
 * [Human-Robot Interaction: Algorithms & Experiments (Cornell & UT Austin)](http://hriclass.com/schedule/)
 * [Robot Learning from Demonstration and Interaction (UTexas)](http://www.cs.utexas.edu/~sniekum/classes/RLFD-F17/desc.php)
+* [Robotic motion planning(CMU)](https://www.cs.cmu.edu/~motionplanning/)
 
 ## Important links
 * [Conference on Robot Learning (CoRL)](http://www.robot-learning.org/home)
