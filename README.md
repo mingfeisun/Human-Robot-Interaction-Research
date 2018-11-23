@@ -1,4 +1,4 @@
-# hri-research
+# Human Robot Interaction Research
 
 ## Courses
 * [Algorithmic HRI (UC Berkeley)](http://people.eecs.berkeley.edu/~anca/AHRI.html)
